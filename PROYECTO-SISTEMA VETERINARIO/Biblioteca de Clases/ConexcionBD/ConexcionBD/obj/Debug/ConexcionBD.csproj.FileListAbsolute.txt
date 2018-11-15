@@ -1,0 +1,17 @@
+c:\users\fam_montoya\documents\visual studio 2012\Projects\ConexcionBD\ConexcionBD\bin\Debug\ConexcionBD.dll
+c:\users\fam_montoya\documents\visual studio 2012\Projects\ConexcionBD\ConexcionBD\bin\Debug\ConexcionBD.pdb
+c:\users\fam_montoya\documents\visual studio 2012\Projects\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.csprojResolveAssemblyReference.cache
+c:\users\fam_montoya\documents\visual studio 2012\Projects\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.dll
+c:\users\fam_montoya\documents\visual studio 2012\Projects\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.pdb
+H:\Documentos\ConexcionBD\ConexcionBD\bin\Debug\ConexcionBD.dll
+H:\Documentos\ConexcionBD\ConexcionBD\bin\Debug\ConexcionBD.pdb
+H:\Documentos\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.csprojResolveAssemblyReference.cache
+H:\Documentos\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.dll
+H:\Documentos\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.pdb
+C:\Users\miguel.parra\Documents\PROYECTO-SISTEMA VETERINARIO\Biblioteca de Clases\ConexcionBD\ConexcionBD\bin\Debug\ConexcionBD.dll
+C:\Users\miguel.parra\Documents\PROYECTO-SISTEMA VETERINARIO\Biblioteca de Clases\ConexcionBD\ConexcionBD\bin\Debug\ConexcionBD.pdb
+C:\Users\miguel.parra\Documents\PROYECTO-SISTEMA VETERINARIO\Biblioteca de Clases\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.csprojAssemblyReference.cache
+C:\Users\miguel.parra\Documents\PROYECTO-SISTEMA VETERINARIO\Biblioteca de Clases\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.csproj.CoreCompileInputs.cache
+C:\Users\miguel.parra\Documents\PROYECTO-SISTEMA VETERINARIO\Biblioteca de Clases\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.csproj.CopyComplete
+C:\Users\miguel.parra\Documents\PROYECTO-SISTEMA VETERINARIO\Biblioteca de Clases\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.dll
+C:\Users\miguel.parra\Documents\PROYECTO-SISTEMA VETERINARIO\Biblioteca de Clases\ConexcionBD\ConexcionBD\obj\Debug\ConexcionBD.pdb
